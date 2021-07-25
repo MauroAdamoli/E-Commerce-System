@@ -6,6 +6,7 @@ Linguagens utilizadas:
 - CSS
 
 ## Homepage
+<img src="https://raw.githubusercontent.com/MauroAdamoli/E-Commerce-System/main/Homepage.jpg">
 Na Homepage do sistema,  o visitante encontrará uma páfgina simples, com duas opções disponíveis:
 - Cadastrar um cliente
 - Cadastrar um produto
